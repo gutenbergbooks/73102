@@ -1,7 +1,3 @@
-
-
-
-
                            _THE HARDY BOYS_
 
                         THE SHORE ROAD MYSTERY
@@ -739,7 +735,7 @@ said Chet.
 "He was a surly, bad-tempered fellow, and when he left he swore that
 he'd get even with us. But of course that may have been only talk."
 
-"Talk or no talk, it's something to work on," Frank Hardy remarked,
+"Talk or no talk, it's something to work on," Frank Hardy remarked.
 "Have you seen him around since?"
 
 Jack shook his head.
@@ -932,7 +928,7 @@ you'd help us fix it up."
 
 The boys looked at their father hopefully.
 
-"Joe and I can put up some of our reward money," interjected Frank, "We
+"Joe and I can put up some of our reward money," interjected Frank. "We
 hate to see the Dodds kept in jail."
 
 Mr. Hardy was thoughtful.
@@ -1585,7 +1581,7 @@ off toward Bayport.
 
 "Dumb but good-hearted," said Chet.
 
-"He isn't a bad sort," Joe remarked, "He's no great shakes as a
+"He isn't a bad sort," Joe remarked. "He's no great shakes as a
 detective, that's sure, but there are lots worse."
 
 The boys crossed the road and struck off down a narrow trail that led
@@ -2000,7 +1996,7 @@ From the beach below came a faint shout.
 
 The men on the shore had seen them.
 
-"We'd better go down," said Frank, "I wonder if there isn't a path of
+"We'd better go down," said Frank. "I wonder if there isn't a path of
 some kind around here."
 
 "Let's slide!" Chet suggested.
@@ -2289,7 +2285,7 @@ we'd have been nabbed."
 
 "That's right. You know this country pretty well."
 
-"I should, I've lived around here long enough."
+"I should. I've lived around here long enough."
 
 About fifty yards away, the men turned down toward the woods and
 vanished in the darkness of the trees. Their voices receded. Frank and
@@ -2523,7 +2519,7 @@ thieves."
 
 The game wardens began to laugh.
 
-"You were on the wrong track that time, son," said one, "I guess
+"You were on the wrong track that time, son," said one. "I guess
 they're all right, Dan. Let them go."
 
 The man who had stumbled on them in the bush released Frank reluctantly.
@@ -3876,7 +3872,7 @@ questions pertaining to police matters.
 
 "Well," he said, "there is and there isn't."
 
-"That mean's there isn't."
+"That means there isn't."
 
 "We ain't found 'em yet. But that don't mean they won't be found," said
 the officer darkly. "We're followin' up clues."
@@ -6176,4 +6172,5 @@ Hooper's comment.
 
 
                 GROSSET & DUNLAP, PUBLISHERS, NEW YORK
+
 
